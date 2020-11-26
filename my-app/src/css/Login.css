@@ -1,0 +1,58 @@
+.containerPrincipal{
+    box-shadow: 0 10px 30px 0px rgb(0, 0, 0, 0.1);  
+    padding: 40px;
+    background-color: #EDEDED;
+    border-radius: 3px;
+    float: right;
+    margin: 3rem;
+}
+
+
+.containerSecundario{
+    text-align: left; 
+}
+.container-fluid{
+    background-color: rgba(108, 153, 250, 0.623);
+    
+}
+
+.form-group .form-control{
+    font-family: 'Nunito', sans-serif;
+    color: #384047;
+    background: rgba(255,255,255,0.1);
+    border: none;
+    font-size: 16px;
+    height: auto;
+    margin: 0;
+    outline: 0;
+    padding: 15px;
+    width: 100%;
+    background-color: rgba(15, 14, 14, 0.1);
+    color: #8a97a0;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    margin-bottom: 30px;
+}
+
+.btn-login{
+
+
+    color: #FFF;
+    background-color: #3399cc;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 5px;
+    width: 100%;
+    border: none;
+    border-width: 1px 1px 3px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding: 19px 39px 18px 39px;
+    transition: all 300ms;
+      
+}
+
+.btn-login:hover{
+    background-color: #9ccee7;
+    transition: all 300ms;
+}
